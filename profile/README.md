@@ -13,6 +13,6 @@
 - Custom Solutions  
 
 ## 🛠 Tech Stack
-React · React Native · Next.js · Node.js · Django · HTML · CSS · Tailwind CSS · Flutter · MongoDB · PostgreSQL · MySQL · Docker  
+Python · React · React Native · Next.js · Node.js · Django · HTML · CSS · Tailwind CSS · Flutter · MongoDB · PostgreSQL · MySQL · Docker  
 
 > Turning ideas into reality, one commit at a time.
