@@ -10,9 +10,6 @@
 - Mobile Apps  
 - Web Applications  
 - Desktop Software  
-- Custom Solutions  
-
-## 🛠 Tech Stack
-Python · React · React Native · Next.js · Node.js · Django · HTML · CSS · Tailwind CSS · Flutter · MongoDB · PostgreSQL · MySQL · Docker  
+- Custom Solutions   
 
 > Turning ideas into reality, one commit at a time.
