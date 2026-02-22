@@ -16,11 +16,9 @@ We collaborate, learn, and build impactful projects using our individual GitHub 
 
 ## 👨‍💻 Founders
 
-### 🔹 Nur Pratak Karki
-- GitHub: https://github.com/nurpratapkarki
-
-### 🔹 Sankalp Tharu
-- GitHub: https://github.com/S4NKALP
+| ![Nur Pratap Karki](https://avatars.githubusercontent.com/nurpratapkarki) | ![Sankalp Tharu](https://avatars.githubusercontent.com/S4NKALP) |
+| ---- | ---- |
+| [Nur Pratap Karki](https://github.com/nurpratapkarki) | [Sankalp Tharu](https://github.com/S4NKALP) |
 ---
 
 ## 🎯 Our Mission
